@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/eac07d50b178f8e3e81d179e2219fcc657890ebd/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/eac07d50b178f8e3e81d179e2219fcc657890ebd/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/anim/abc_popup_enter.xml"
+    }
+]

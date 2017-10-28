@@ -1,0 +1,47 @@
+*{text-shadow:none!important;color:#000;box-shadow:none!important}.header,.footer,.blk-heading-control,.booking-confirm-list,.booking-control,.form-search-flight,.tab-print,.schedule-check-availability,.ico-print,.btn-back,.browsehappy,.sia-breadcrumb{display:none!important}
+.flight-schedules-page .header,.flight-schedules-page .tab,.flight-schedules-page .download{display:none}
+.flight-schedules-page .table--1{border:1px solid #e2e2e2}.flight-schedules-page .table--1 td:nth-child(3){border-right:1px solid #e2e2e2!important}
+.table-default,.booking-passenger-content{background-color:white!important}.ico-tax{background:url("/saar5/images/ico-tax-print.png") no-repeat!important}
+.checkin-complete .status__num{font-size:1em;margin-right:.35714em;width:auto}.booking-item,.claim-make{box-shadow:none}
+.booking-item:before,.claim-make:before{box-shadow:none}.booking-info,.booking-passenger-content{border:1px solid #f2f2f2}
+.booking-passenger-content{border-top:0}.flight-schedules .button-group{display:none}.booking-summary{display:none}
+.title-fl-target .search-link{display:none}.select-flights__calendar-sort{display:none}.flights__table{border:1px solid #e5e5e5}
+.flights__table.next-package .package-4{display:table-cell!important;border-left:1px solid #e5e5e5;border-right:2px solid #e5e5e5}
+.flights__table .package-3{border-right:1px solid #e5e5e5}.flights__table thead tr th{border-left:1px solid #e5e5e5;color:#666;border-top:1px solid #e5e5e5}
+.flights__table thead tr th.bgd-green-1,.flights__table thead tr th.bgd-green-2,.flights__table thead tr th.bgd-green-3,.flights__table thead tr th.bgd-green-4,.flights__table thead tr th.bgd-green-gray{border-right:1px solid #e5e5e5;color:#000;border-left:0}
+.flights__table thead tr th:first-child.bgd-green-1{border-left:1px solid #e5e5e5}.flights__table tbody tr:first-child.even-item td{border-top:1px solid #0b664b}
+.flights__table tbody tr td{border-bottom:1px solid #e5e5e5;border-right:2px solid #e5e5e5}.flights__table tbody tr td.hidden-mb{display:table-cell!important}
+.flights__table .custom-radio--1 label{width:100%;display:block;padding-left:0}.flights__table .custom-radio--1 input{display:none}
+.flights__table .custom-radio--1 .ico-radio{display:none}.flights__table .ico-info-round-fill{display:none}
+.calendar__table tr th{border-top:1px solid #e5e5e5;border-left:1px solid #e5e5e5}.calendar__table tr th.first{border:0}
+.calendar__table tr th.active{color:#000}.blk-main-heading{-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}
+.blk-main-heading .blk-main-heading__inner{background-color:transparent}.blk-main-heading:before,.blk-main-heading:after{-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}
+.masthead{display:none}body{background-color:transparent}body .main-container{width:100%}body .main-inner{padding:5px;margin-top:20px}
+.promotion-item .promotion-item__heading{padding:0}.promotion-item .list-unstyled{padding-left:0}.promotion-item .promotion-item__content>a{margin-left:0}
+.dials{background-color:transparent}.dials:before{-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;border-bottom:1px solid #000;border-radius:0}
+.claim-make,.form-claim__content{background-color:transparent}.statements-page .main-heading,.statements-page .form-calculate-miles,.statements-page .btn-back{display:none}
+.statements-page .statements .btn-4{display:none}.flight-history .main-heading,.flight-history .blk-control{display:none}
+.flight-history .flight-history__more{display:none}.block--shadow,.form-claim__content,.blk-main-heading,.claim-make,.travel-widget,.tabs .tab-content .main-heading,.passenger-details-page .main-heading{border-bottom:1px solid #e5e5e5}
+.input-3 .input-3__text{top:1px}.input-3 input[type="text"],.input-3 input[type="tel"]{padding:9px 0}
+.popup--cookie,.toolbar--language,.beta-footer{display:none}.flights__info--group .flights__info--detail{position:relative}
+.flights__info--group .flights__info--detail .ico-airplane-lift{right:0;left:auto;margin-right:5px;margin-left:0}
+.custom-scroll.custom-dropdown,.ui-autocomplete{display:none!important}.custom-select--2.focus{border:1px solid #ccc}
+.blk-main-heading.blk-main-heading-1{border:0}.flights__searchs .wi-icon{display:none!important}.flights__table--1__inner td:nth-child(5),.flights__table--1__inner td:nth-child(6),.flights__table--1__inner td:nth-child(7){border-bottom:2px solid #e5e5e5;border-right:1px solid #e5e5e5}
+.flights__table--1__inner td:last-child{border-left:1px solid #e5e5e5}.flights__table--1__inner td{border-bottom:2px solid #e5e5e5;border-right:1px solid #e5e5e5}
+.flights__table--1__inner{border-bottom:1px solid #e5e5e5}.flights__table--1__inner td.first.printfix1,.flights__table tr th.title-head.printfix1{width:40%!important}
+.flights__table--1__inner td.printfix1:nth-child(2),.flights__table--1__inner td.printfix1:nth-child(3),.flights__table--1__inner td.printfix1:nth-child(4),.flights__table--1__inner td.printfix1:nth-child(5),.flights__table--1__inner td.printfix1:nth-child(6),.flights__table--1__inner td.printfix1:nth-child(7),.flights__table tr th.title-head.printfix1:nth-child(2),.flights__table tr th.title-head.printfix1:nth-child(3),.flights__table tr th.title-head.printfix1:nth-child(4),.flights__table tr th.title-head.printfix1:nth-child(5),.flights__table tr th.title-head.printfix1:nth-child(6),.flights__table tr th.title-head.printfix1:nth-child(7){width:10%!important;padding:0}
+.flights__info--group .flights__info--detail{width:50%}th.title-head.hidden-mb.printfix1{display:table-cell!important}
+td.hidden-mb.package-1.printfix1{border-bottom:1px solid #e5e5e5;border-left:1px solid #e5e5e5}.printfix4 p{font-size:12px}
+.flights__table--1__inner td.first.printfix6,.flights__table tr th.title-head.printfix6{width:40%!important}
+.flights__table--1__inner td.printfix6:nth-child(2),.flights__table--1__inner td.printfix6:nth-child(3),.flights__table--1__inner td.printfix6:nth-child(4),.flights__table--1__inner td.printfix6:nth-child(5),.flights__table--1__inner td.printfix6:nth-child(6),.flights__table--1__inner td.printfix6:nth-child(7),.flights__table tr th.title-head.printfix6:nth-child(2),.flights__table tr th.title-head.printfix6:nth-child(3),.flights__table tr th.title-head.printfix6:nth-child(4),.flights__table tr th.title-head.printfix6:nth-child(5),.flights__table tr th.title-head.printfix6:nth-child(6),.flights__table tr th.title-head.printfix6:nth-child(7){width:10%!important;padding:0}
+.flights__table--1__inner.printfix6{width:112%!important}.flights__table.next-package .package-5.printfix6{left:26px;top:190px;display:block!important}
+.flights__table tr th.title-head.package-5.printfix6{left:18px;position:relative;top:15px}th.title-head.hidden-mb.printfix6{display:table-cell!important}
+.flights__table tr th.title-head.package-5.printfix6-previous{left:0!important;position:relative;top:0!important}
+.package6print{top:0!important;left:0!important}.flight-select-page a{display:none!important}.chat-window{-webkit-print-color-adjust:exact}
+.gwc-chat-branding{background-color:transparent!important}.betabar-block{display:none}.interim-flight-select-page .form-flight-search .flights__table tr th{width:12%}
+.interim-flight-select-page .form-flight-search .flights__table tr th:first-child{width:39%}.interim-flight-select-page .form-flight-search .flights__table.six-column tr th{width:10%}
+.interim-flight-select-page .form-flight-search .flights__table.six-column tr th:first-child{width:39%}
+.interim-flight-select-page .flights__searchs .flights__info--group .flights__info--detail:last-child.flights__info--detail{width:38%}
+.interim-flight-select-page .form-flight-search .six-column .flights__info--group .flights__info--detail .ico-airplane-lift{left:93%}
+.flights__table .title-head p{color:#fff}.flights__table tbody tr:first-child.even-item td{border-top:1px solid #e5e5e5}
+.flights__searchs--business .flights__table tr.active .flights__table--1__inner tr td{border-bottom:1px solid #e5e5e5}

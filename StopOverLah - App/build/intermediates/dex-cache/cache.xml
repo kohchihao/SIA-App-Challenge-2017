@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_77cea25741205511b368d86c85690dcbf53df96c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.2.0/f196283dab426e09559bfe7385f162b2b254cf72/gifdecoder-4.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f196283dab426e09559bfe7385f162b2b254cf72">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/gifdecoder-4.2.0_01d2e75dbe40168819bd4da90de035828876393b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/569d7b90fea0c66b5f9a51c84d980cf0cc5234fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_d833202e7db680a4ff197c5cf18f2015e5a58718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.2.0/fd3a444cc7987b5fa2a60fabb116395ca2a4da1c/disklrucache-4.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fd3a444cc7987b5fa2a60fabb116395ca2a4da1c">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/disklrucache-4.2.0_fd4517bb60333c4c0ed6d18633e9434250c077a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/dcd2bd097d5324b181b5219e0e5fc6b16a02f2e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ef2ea12d1aed157ba98ecc7da5cd910f525c9737">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_2bd8725310c4b96a2f881275ac8b68099e1dccce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/afbf921e6fd14aee8c29d4f1f726808d0f7f1440/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_e65494d9853d1ffbc9be3f63e9fb880be652f843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/e75ee6eae43ed9ae3b71b53592a85f3274457099/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_f04283ad9d8d4797a863867741c6f6fd3b74fcb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.0/1b6c10b5120995a7542c1a31b7828fb8593c8ba/okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/okhttp-3.9.0_3eaac58f2e6319864c8f3a341ea071a43412381c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/f0d622c4adc4729a7630a96ab45deee7709138c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_84874c03e14a616c5d05fb835b41a8f05e8dc0b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/562e5fd509e718dda641868a0aecff44314001e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_83c2f1363748d62e9862b006dca6c50a27baaaf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/eb64946e9c3c0e2b3bac70696532f312d8391f07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="414c5172d9739a35339700d133288418059e7d83">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_446c229e3fe675a51a58e4b047c7fecb2e749794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/addab4049832175810a79b8677f360d0a4129e1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2f552156e824f318819b664ab932f61d12cfa2f4">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_17218a7bed7f247052e4ebe4d2b63199c730f500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/common-1.0.0_339c90ad5413b4b07a9f83966a8bdba5abf52c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/955d273dda02690dfb5398b9d806cb1a3f44f53f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_b8bc50c19542e595e2274d6d9537352783f0c35a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/93c1814ef373f677e8d7fc26033d9b11f8350174/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e9e9012a78b511275f0882e125bf2e7d35a1c34">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_0ffdd677ea6a038f3b4b0d6aa6e1b45d8df03118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/03a0e6946519c8bc5b6682cd7541c0e9f67c34c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5423d080755901cc399daa76490ee65820e75fb">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_6a66fa0b4b609201153683c02f2d8c27302fb0bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_81e1c1862c3981d78595015b7d765a71b776e90d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/4379464324e25457245f754ee027967eddc5d0bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fe52eb7a638724583586c86887461f772edf6c6">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_49477efa3573748517ed8d6dee23ff3ea048bb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/5a22ff8bb6eddc0daedc05818c0637c4b94d8676/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_95f70e1480a19b1d30029bc98451b872565dee64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.2.0/1d6fc29f2af61d8fdc31018416040c560423c4b3/annotations-4.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d6fc29f2af61d8fdc31018416040c560423c4b3">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/annotations-4.2.0_f37790e16479451952ffe2c1166f6b39029cf41d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/36dd8562adec2cf5b41f53550b9509a7a9702609/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_7bb23c99be8f64f7ade7a8e99b947b6e6f42ab40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/aaf102bbd2a050bfa276b01bef5db859e2272c48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_e2badd4488f0b0ae0046ef58942503f2245d9fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/dbab967e677a75b58ad45e440631f92b386a72d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_7cbbc583f204a79784c78c94bf7f101242dfba78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.2.0/b76d4269b06b8bda96aac32342a05843b4c0be41/glide-4.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b76d4269b06b8bda96aac32342a05843b4c0be41">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/glide-4.2.0_509616ce5588a2197dd06c4cb982aa27b3a66856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/common-1.0.0_45c1d1f1cc602118a1f3d1e69b96554d5e296dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_8e680074252a0a74edcf00c9054c1a2206e8f23a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/core-3.3.0_4da8e1fbe8f2555f62f309adf594c84b2a86fdee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/a8b335a22c8010ea5592eb445d6ee386b4d352a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e7f4a5c0daaed9480dc47bf026ec62f0d685c35">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_b4c92a691bbfb1f7fe7d7f0de9427e1d6d51471f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/eac07d50b178f8e3e81d179e2219fcc657890ebd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_bf26fd4b461f29c6c7a7c41ae5bebce12456dd8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/okio-1.13.0_6b527c887f97af6b8c5213019ecdc4eba0f799c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/aee0dad72eac0b81b3b47d6aa92c32dd5a7e7aeb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_dcad5a7f22506139e25754166fadbb56fa27cdfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/ffeef6a314d8642aac7b6873e6a0ad2fe875c292/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_2b49babd3010bab18796f8a2f4a16eb21667cdd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/9d3be4693fab8266170516ab2b1b606e91d27d83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_c2d4addd37652b1815e6abf449020192a086ccd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/1bdb230eb3671f5ff396f94cbebc33d6f075392a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_edad774911380e395073a8a64b67f05d030cdfb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcuskoh/.android/build-cache/a202028db72ff135fb060264f8ee23c81448adaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b723383fcc5c9e6d233f12cf3670c153dcb9f72">
+        <dex dex="/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/pre-dexed/debug/classes_feb3fc1ca6f96200e8b7a826b0d011acbb625baa.jar" />
+    </item>
+
+</items>

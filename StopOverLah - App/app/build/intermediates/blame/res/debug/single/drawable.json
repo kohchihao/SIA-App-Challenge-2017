@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/rounded_btn_yellow.xml",
+        "source": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/src/main/res/drawable/rounded_btn_yellow.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/ic_directions_bus_black_24dp.xml",
+        "source": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/src/main/res/drawable/ic_directions_bus_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/ic_map_black_24dp.xml",
+        "source": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/src/main/res/drawable/ic_map_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/rounded_btn_blue.xml",
+        "source": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/src/main/res/drawable/rounded_btn_blue.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/9d3be4693fab8266170516ab2b1b606e91d27d83/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/ic_attach_money_black_24dp.xml",
+        "source": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/src/main/res/drawable/ic_attach_money_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/rounded_btn_red.xml",
+        "source": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/src/main/res/drawable/rounded_btn_red.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/9d3be4693fab8266170516ab2b1b606e91d27d83/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/rounded_btn_brown.xml",
+        "source": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/src/main/res/drawable/rounded_btn_brown.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/eac07d50b178f8e3e81d179e2219fcc657890ebd/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/ic_account_circle_black_24dp.xml",
+        "source": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/src/main/res/drawable/ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/9d3be4693fab8266170516ab2b1b606e91d27d83/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/9d3be4693fab8266170516ab2b1b606e91d27d83/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/eac07d50b178f8e3e81d179e2219fcc657890ebd/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/eac07d50b178f8e3e81d179e2219fcc657890ebd/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/603d9eb8d5994da46d65ddd6c813ae535a0db1ed/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/a9e9d18e9453a796663c7fc590a8c6ccf504f60f/output/res/drawable/abc_cab_background_internal_bg.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/9d3be4693fab8266170516ab2b1b606e91d27d83/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/9d3be4693fab8266170516ab2b1b606e91d27d83/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/9d3be4693fab8266170516ab2b1b606e91d27d83/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/marcuskoh/Desktop/Projects/AndroidStudio/StopOverLah/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/marcuskoh/.android/build-cache/9d3be4693fab8266170516ab2b1b606e91d27d83/output/res/layout-v21/notification_action.xml"
+    }
+]
