@@ -35,7 +35,7 @@ The Singapore Stopover Holiday (SSH) currently requires passengers to collect a 
 
 #### Done by NUS Computing students
 - Koh Chi Hao, Computer Science Y1 [GitHub](https://github.com/kohchihao)
-- Tan Jin Ying, Computer Science Y1 [Github] (https://github.com/jinyingtan)
+- Tan Jin Ying, Computer Science Y1 [Github](https://github.com/jinyingtan)
 - Edward Wang, Information System Y2 [Github](https://github.com/wardzxzxc)
  
 #### Screenshots of the app and email
